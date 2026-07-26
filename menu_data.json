@@ -1,0 +1,5724 @@
+{
+ "A": {
+  "nombre": "Semana A",
+  "dias": {
+   "Lunes": {
+    "Desayuno": {
+     "Lydia": {
+      "titulo": "Tostada con aguacate y huevo a la plancha",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Aguacate",
+        "cantidad": 50,
+        "unidad": "g",
+        "categoria": "Frescos: verdura y hortaliza"
+       },
+       {
+        "nombre": "Huevo campero (M)",
+        "cantidad": 1,
+        "unidad": "ud",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Kefir natural",
+        "cantidad": 150,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Huevo a la plancha con una pizca de sal."
+     },
+     "Ruben": {
+      "titulo": "Doble racion + platano (post-rodaje suave)",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Aguacate",
+        "cantidad": 30,
+        "unidad": "g",
+        "categoria": "Frescos: verdura y hortaliza"
+       },
+       {
+        "nombre": "Huevo campero (M)",
+        "cantidad": 1,
+        "unidad": "ud",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Nueces naturales",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Desayuna al volver de correr. Tostadas + aguacate + huevo iguales que Lydia, mas esta linea extra."
+     }
+    },
+    "Almuerzo": {
+     "Lydia": {
+      "titulo": "Batido de platano, avena y leche",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 220,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Copos de avena sin gluten",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Batir todo junto (Thermomix o batidora)."
+     },
+     "Ruben": {
+      "titulo": "Yogur, fruta y nueces",
+      "base": [
+       {
+        "nombre": "Yogur natural sin azucar",
+        "cantidad": 250,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Melocoton",
+        "cantidad": 300,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Nueces naturales",
+        "cantidad": 40,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Creatina monohidrato",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Comida": {
+     "titulo": "Bowl tupper de pasta sin gluten, pollo, verduras asadas y hummus",
+     "base": [
+      {
+       "nombre": "Pasta sin gluten (fusilli maiz-arroz)",
+       "cantidad": 105,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Pechuga de pollo",
+       "cantidad": 300,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Rucula",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Pasta sin gluten (fusilli maiz-arroz)",
+       "cantidad": 25,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "nota": "Pasta sin gluten (45 g Lydia / 60 g Ruben aprox.) y pollo (cocinados el domingo) + 300 g de verduras asadas + 100 g de hummus (tambien del domingo) + rucula fresca + aceite. Se toma templado o frio, aguanta bien de un dia para otro."
+    },
+    "Merienda": {
+     "titulo": "Tostada con crema de cacahuete y platano",
+     "base": [
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Crema de cacahuete 100%",
+       "cantidad": 20,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      },
+      {
+       "nombre": "Platano",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Fruta fresca"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Crema de cacahuete 100%",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      }
+     ],
+     "nota": "Antes de musculacion (Ruben) / antes del entreno de tarde (Lydia)."
+    },
+    "Cena": {
+     "titulo": "Salmon al horno con ensalada de aguacate",
+     "base": [
+      {
+       "nombre": "Salmon (lomo fresco)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Pescaderia"
+      },
+      {
+       "nombre": "Tomate",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Apio",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aguacate",
+       "cantidad": 50,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Boniato",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "nota": "Salmon ya cocinado el domingo, recalentar suave (airfryer 160C 3-4 min)."
+    }
+   },
+   "Martes": {
+    "Desayuno": {
+     "Lydia": {
+      "titulo": "Tostada con aguacate y tomate",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Aguacate",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Frescos: verdura y hortaliza"
+       },
+       {
+        "nombre": "Tomate",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Frescos: verdura y hortaliza"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 150,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Tomate en rodajas y aguacate aplastado con un chorrito de AOVE, sal y oregano."
+     },
+     "Ruben": {
+      "titulo": "Porridge de avena con platano",
+      "base": [
+       {
+        "nombre": "Copos de avena sin gluten",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 250,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Canela",
+        "cantidad": 1,
+        "unidad": "g",
+        "categoria": "Aceites, salsas y condimentos"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Antes de nadar/bici (no hace falta ir en ayunas este dia). Microondas 2 min, remover."
+     }
+    },
+    "Almuerzo": {
+     "Lydia": {
+      "titulo": "Batido de fresa y leche",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 220,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fresa",
+        "cantidad": 150,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Batir todo junto."
+     },
+     "Ruben": {
+      "titulo": "Kefir, fruta y frutos secos",
+      "base": [
+       {
+        "nombre": "Kefir natural",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Almendras crudas",
+        "cantidad": 30,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Creatina monohidrato",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Comida": {
+     "titulo": "Ensalada templada de boniato, atun y huevo (tupper)",
+     "base": [
+      {
+       "nombre": "Boniato",
+       "cantidad": 250,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Atun al natural (lata)",
+       "cantidad": 160,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      },
+      {
+       "nombre": "Judias verdes",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceitunas negras sin hueso",
+       "cantidad": 40,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      },
+      {
+       "nombre": "Vinagre de manzana",
+       "cantidad": 5,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Boniato",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "nota": "Boniato asado (del domingo) + 2 latas de atun + huevo cocido (2, del domingo) + judias verdes cocidas + aceitunas + aliño. No lleva nada que se ponga malo con el calor."
+    },
+    "Merienda": {
+     "titulo": "Yogur con nueces tostadas y miel",
+     "base": [
+      {
+       "nombre": "Yogur natural sin azucar",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Lacteos (pasteurizados)"
+      },
+      {
+       "nombre": "Miel",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      },
+      {
+       "nombre": "Nueces naturales",
+       "cantidad": 20,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Nueces naturales",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      }
+     ],
+     "nota": "Tostar las nueces 5 min en airfryer a 160C para que esten crujientes."
+    },
+    "Cena": {
+     "titulo": "Tortilla francesa de espinacas con ensalada",
+     "base": [
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 4,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Espinacas frescas",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Lechuga",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Tomate",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 8,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 2,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 50,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "nota": "Cena ligera. Ruben añade 2 huevos mas a la tortilla y pan sin gluten aparte."
+    }
+   },
+   "Miercoles": {
+    "Desayuno": {
+     "Lydia": {
+      "titulo": "Tostada con hummus y tomate cherry",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Tomate cherry",
+        "cantidad": 50,
+        "unidad": "g",
+        "categoria": "Frescos: verdura y hortaliza"
+       },
+       {
+        "nombre": "Semillas de sesamo",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 150,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "60 g de hummus del domingo + tomate cherry laminado + sesamo por encima."
+     },
+     "Ruben": {
+      "titulo": "Tostadas con huevo revuelto y aguacate (post-series)",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Huevo campero (M)",
+        "cantidad": 3,
+        "unidad": "ud",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Aguacate",
+        "cantidad": 50,
+        "unidad": "g",
+        "categoria": "Frescos: verdura y hortaliza"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 150,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Dia de series: desayuno mas completo al volver a casa."
+     }
+    },
+    "Almuerzo": {
+     "Lydia": {
+      "titulo": "Batido de platano y cacao",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 220,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Cacao desgrasado en polvo sin azucar",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Batir todo junto."
+     },
+     "Ruben": {
+      "titulo": "Fruta y yogur proteico",
+      "base": [
+       {
+        "nombre": "Yogur griego natural",
+        "cantidad": 150,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Sandia",
+        "cantidad": 300,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Almendras crudas",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Creatina monohidrato",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Comida": {
+     "titulo": "Bowl de lomo de cerdo, arroz basmati y verduras asadas (tupper, estilo asiatico)",
+     "base": [
+      {
+       "nombre": "Arroz basmati",
+       "cantidad": 105,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Lomo de cerdo",
+       "cantidad": 250,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Salsa de soja sin gluten (tamari)",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      },
+      {
+       "nombre": "Semillas de sesamo",
+       "cantidad": 5,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Arroz basmati",
+       "cantidad": 25,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Lomo de cerdo",
+       "cantidad": 50,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "nota": "Arroz basmati (45 g Lydia / 60 g Ruben aprox.) + lomo de cerdo + 250 g de verduras asadas (todo del domingo) salteado 2 min con tamari y sesamo, o en frio como bowl."
+    },
+    "Merienda": {
+     "titulo": "Tostada con pavo casero desmenuzado",
+     "base": [
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Pechuga de pavo (fresca, no fiambre)",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Tomate",
+       "cantidad": 40,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Pechuga de pavo (fresca, no fiambre)",
+       "cantidad": 40,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "nota": "Pavo cocinado a la plancha en casa (no fiambre envasado), se puede dejar hecho el domingo si se prefiere."
+    },
+    "Cena": {
+     "titulo": "Salmorejo casero con huevo duro",
+     "base": [
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 2,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Boniato",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "nota": "400 ml de salmorejo/gazpacho del domingo, bien frio, con huevo duro picado por encima. Perfecto para el calor de julio."
+    }
+   },
+   "Jueves": {
+    "Desayuno": {
+     "Lydia": {
+      "titulo": "Tostada con crema de cacahuete y platano",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Crema de cacahuete 100%",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Canela",
+        "cantidad": 1,
+        "unidad": "g",
+        "categoria": "Aceites, salsas y condimentos"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     },
+     "Ruben": {
+      "titulo": "Tostadas con atun y tomate",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Atun al natural (lata)",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Despensa: legumbres y conservas"
+       },
+       {
+        "nombre": "Tomate",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Frescos: verdura y hortaliza"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 150,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Dia de bici/gimnasio, no corre en ayunas."
+     }
+    },
+    "Almuerzo": {
+     "Lydia": {
+      "titulo": "Batido de frutos rojos, avena y leche",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 220,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 120,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Copos de avena sin gluten",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Batir todo junto."
+     },
+     "Ruben": {
+      "titulo": "Kefir, fruta y nueces",
+      "base": [
+       {
+        "nombre": "Kefir natural",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Nueces naturales",
+        "cantidad": 30,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Creatina monohidrato",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Comida": {
+     "titulo": "Bowl de atun a la plancha, arroz y aguacate (tupper)",
+     "base": [
+      {
+       "nombre": "Arroz basmati",
+       "cantidad": 90,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Atun fresco (lomo)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Pescaderia"
+      },
+      {
+       "nombre": "Aguacate",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Edamame (vaina o desgranado, congelado)",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Zanahoria",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Salsa de soja sin gluten (tamari)",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      },
+      {
+       "nombre": "Semillas de sesamo",
+       "cantidad": 5,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Arroz basmati",
+       "cantidad": 25,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Atun fresco (lomo)",
+       "cantidad": 50,
+       "unidad": "g",
+       "categoria": "Pescaderia"
+      }
+     ],
+     "nota": "Arroz basmati (40 g Lydia / 50 g Ruben aprox.) + atun fresco a la plancha del domingo (bien hecho por dentro, nada de crudo), en dados, con aguacate, edamame y zanahoria. Frio, ideal para tupper de verano."
+    },
+    "Merienda": {
+     "titulo": "Yogur con fruta y almendras",
+     "base": [
+      {
+       "nombre": "Yogur natural sin azucar",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Lacteos (pasteurizados)"
+      },
+      {
+       "nombre": "Almendras crudas",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      },
+      {
+       "nombre": "Fruta de temporada (variada)",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Fruta fresca"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Almendras crudas",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      }
+     ],
+     "nota": ""
+    },
+    "Cena": {
+     "titulo": "Pollo al horno con verduras y patata",
+     "base": [
+      {
+       "nombre": "Pechuga de pollo",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Pimiento rojo",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Cebolla",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Calabacin",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Patata",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 8,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Patata",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "nota": "Pollo restante del domingo, recalentado con verduras nuevas al horno 20 min a 200C."
+    }
+   },
+   "Viernes": {
+    "Desayuno": {
+     "Lydia": {
+      "titulo": "Tostada con huevo revuelto y espinacas",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Huevo campero (M)",
+        "cantidad": 2,
+        "unidad": "ud",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Espinacas frescas",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Frescos: verdura y hortaliza"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     },
+     "Ruben": {
+      "titulo": "Tostadas con huevo, pavo y miel (post-tirada larga)",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Huevo campero (M)",
+        "cantidad": 2,
+        "unidad": "ud",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Pechuga de pavo (fresca, no fiambre)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Miel",
+        "cantidad": 10,
+        "unidad": "g",
+        "categoria": "Aceites, salsas y condimentos"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Tirada larga con tempo: desayuno mas calorico y con miel para reponer glucogeno."
+     }
+    },
+    "Almuerzo": {
+     "Lydia": {
+      "titulo": "Batido de melocoton y leche",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 220,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Melocoton",
+        "cantidad": 150,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Miel",
+        "cantidad": 10,
+        "unidad": "g",
+        "categoria": "Aceites, salsas y condimentos"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Batir todo junto."
+     },
+     "Ruben": {
+      "titulo": "Fruta y yogur",
+      "base": [
+       {
+        "nombre": "Yogur natural sin azucar",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Nueces naturales",
+        "cantidad": 15,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Creatina monohidrato",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Comida": {
+     "titulo": "Ensalada de garbanzos con atun (tupper, dia de compra)",
+     "base": [
+      {
+       "nombre": "Garbanzos cocidos (bote o secos)",
+       "cantidad": 300,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      },
+      {
+       "nombre": "Atun al natural (lata)",
+       "cantidad": 160,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      },
+      {
+       "nombre": "Pimiento rojo",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Tomate",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Cebolla",
+       "cantidad": 50,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      },
+      {
+       "nombre": "Vinagre de manzana",
+       "cantidad": 5,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Garbanzos cocidos (bote o secos)",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      }
+     ],
+     "nota": "Usar el hummus/garbanzos que sobren; si no queda, es la unica compra extra de garbanzos de la semana."
+    },
+    "Merienda": {
+     "titulo": "Tostada con platano y miel + frutos secos",
+     "base": [
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Platano",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Fruta fresca"
+      },
+      {
+       "nombre": "Miel",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      },
+      {
+       "nombre": "Almendras crudas",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Almendras crudas",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      }
+     ],
+     "nota": "Antes de entrenar los dos (Lydia tarde, Ruben musculacion/gimnasio)."
+    },
+    "Cena": {
+     "titulo": "Dorada al horno con verduras",
+     "base": [
+      {
+       "nombre": "Dorada o lubina (filete)",
+       "cantidad": 350,
+       "unidad": "g",
+       "categoria": "Pescaderia"
+      },
+      {
+       "nombre": "Calabacin",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Tomate",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Cebolla",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Patata",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "nota": "Cena ligera antes del fin de semana. Horno 20 min a 200C."
+    }
+   },
+   "Sabado": {
+    "Desayuno": {
+     "Lydia": {
+      "titulo": "Tostada con queso fresco y fruta",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Queso fresco batido pasteurizado 0%",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 150,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Tranquila, sin prisas."
+     },
+     "Ruben": {
+      "titulo": "Avena con platano y miel (pre-ruta larga)",
+      "base": [
+       {
+        "nombre": "Copos de avena sin gluten",
+        "cantidad": 90,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Miel",
+        "cantidad": 15,
+        "unidad": "g",
+        "categoria": "Aceites, salsas y condimentos"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Desayuno con carga de hidratos antes de salir (minimo 2h30 de bici). Durante la ruta: platano/dátiles o gel cada 45-60 min, bidon con bebida isotonica o agua+sal+miel."
+     }
+    },
+    "Almuerzo": {
+     "Lydia": {
+      "titulo": "Batido de fresa y platano",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 220,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fresa",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Batir todo junto."
+     },
+     "Ruben": {
+      "titulo": "Fruta y frutos secos",
+      "base": [
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Almendras crudas",
+        "cantidad": 15,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Si la ruta se alarga, tomar a media mañana en casa nada mas volver, con el batido de recuperacion de la merienda adelantado si hace falta."
+     }
+    },
+    "Comida": {
+     "titulo": "Comida libre de la semana",
+     "base": [],
+     "extra_ruben": [],
+     "nota": "Aprovechar el sabado para la comida libre (fuera de casa o lo que apetezca). No se detalla menu: es la comida flexible de la semana."
+    },
+    "Merienda": {
+     "Lydia": {
+      "titulo": "Batido de platano y fresa",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Fresa",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "A su hora habitual."
+     },
+     "Ruben": {
+      "titulo": "Batido de recuperacion",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 250,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 30,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Creatina monohidrato",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Nada mas terminar la ruta o al llegar a casa."
+     }
+    },
+    "Cena": {
+     "titulo": "Arroz cremoso con ternera y champiñones",
+     "base": [
+      {
+       "nombre": "Arroz basmati",
+       "cantidad": 110,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Ternera magra (tacos o filetes)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Champiñones",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Cebolla",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Queso mozzarella light pasteurizado",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Lacteos (pasteurizados)"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Arroz basmati",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Ternera magra (tacos o filetes)",
+       "cantidad": 50,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "nota": "Arroz (50 g Lydia / 60 g Ruben aprox., es plato unico asi que algo mas generoso). Ternera comprada y cocinada fresca ese mismo dia (no es del cocinado del domingo). Pochar cebolla y champiñones, añadir la ternera troceada, el arroz y caldo/agua poco a poco removiendo tipo risotto unos 18-20 min; terminar con el queso rallado fuera del fuego. Cena de fin de semana, algo mas relajada."
+    }
+   },
+   "Domingo": {
+    "Desayuno": {
+     "titulo": "Tortitas de avena y platano (pre-Hyrox)",
+     "base": [
+      {
+       "nombre": "Copos de avena sin gluten",
+       "cantidad": 70,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Platano",
+       "cantidad": 180,
+       "unidad": "g",
+       "categoria": "Fruta fresca"
+      },
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 3,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Canela",
+       "cantidad": 1,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      },
+      {
+       "nombre": "Miel",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Copos de avena sin gluten",
+       "cantidad": 20,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "nota": "Triturar la avena, el platano y los huevos hasta obtener una masa fina; añadir la canela. Tortitas pequeñas en sarten antiadherente, 2-3 min por lado. Desayuno ligero antes del Hyrox de los dos, facil de digerir."
+    },
+    "Almuerzo": {
+     "titulo": "Recuperacion post-Hyrox: huevos revueltos y tostada",
+     "base": [
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 4,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Fruta de temporada (variada)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Fruta fresca"
+      },
+      {
+       "nombre": "Kefir natural",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Lacteos (pasteurizados)"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 2,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 40,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "nota": "Nada mas llegar del box, antes de poneros con el cocinado grande."
+    },
+    "Comida": {
+     "titulo": "Pasta sin gluten a la boloñesa (con carne picada de ternera)",
+     "base": [
+      {
+       "nombre": "Pasta sin gluten (fusilli maiz-arroz)",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Ternera magra picada",
+       "cantidad": 220,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Tomate triturado (bote)",
+       "cantidad": 250,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      },
+      {
+       "nombre": "Cebolla",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Ajo",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Pasta sin gluten (fusilli maiz-arroz)",
+       "cantidad": 25,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Ternera magra picada",
+       "cantidad": 50,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "nota": "Pasta (45 g Lydia / 55 g Ruben aprox.). Sofreir la cebolla y el ajo picados, añadir la ternera picada y dorar bien, incorporar el tomate triturado y cocinar 15 min a fuego medio. Mezclar con la pasta recien cocida. Rapida de montar mientras seguis con el resto del cocinado."
+    },
+    "Merienda": {
+     "titulo": "Fruta y yogur",
+     "base": [
+      {
+       "nombre": "Yogur natural sin azucar",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Lacteos (pasteurizados)"
+      },
+      {
+       "nombre": "Fruta de temporada (variada)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Fruta fresca"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Nueces naturales",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      }
+     ],
+     "nota": ""
+    },
+    "Cena": {
+     "titulo": "Tortilla de patata sin gluten con ensalada",
+     "base": [
+      {
+       "nombre": "Patata",
+       "cantidad": 300,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 4,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Cebolla",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Lechuga",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Tomate",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Patata",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "nota": "Cena tranquila de domingo, todo naturalmente sin gluten."
+    }
+   }
+  },
+  "prep_domingo": {
+   "titulo": "Cocinado grande del domingo (al volver del box)",
+   "pasos": [
+    {
+     "titulo": "1. Horno: boniato y verduras asadas",
+     "ingredientes": [
+      {
+       "nombre": "Boniato",
+       "cantidad": 650,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza",
+       "derivado": true
+      },
+      {
+       "nombre": "Pimiento rojo",
+       "cantidad": 300,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Calabacin",
+       "cantidad": 300,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Cebolla",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "instrucciones": "Cortar el boniato en dados y las verduras en trozos. Aliñar con el aceite y sal. Poner el boniato en una bandeja y las verduras en otra (van a la vez pero por separado). Horno 200C, 30-35 min."
+    },
+    {
+     "titulo": "2. Airfryer: salmon",
+     "ingredientes": [
+      {
+       "nombre": "Salmon (lomo fresco)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Pescaderia",
+       "derivado": true
+      },
+      {
+       "nombre": "Limon",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "instrucciones": "Salpimentar el salmon con zumo de limon y eneldo. Airfryer 180C, 10-12 min."
+    },
+    {
+     "titulo": "3. Vitro: arroz, pasta y huevos",
+     "ingredientes": [
+      {
+       "nombre": "Arroz basmati",
+       "cantidad": 385,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta",
+       "derivado": true
+      },
+      {
+       "nombre": "Pasta sin gluten (fusilli maiz-arroz)",
+       "cantidad": 255,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta",
+       "derivado": true
+      },
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 6,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "instrucciones": "Cocer el arroz y la pasta en ollas separadas segun el tiempo del paquete. La pasta se pasa por agua fria nada mas escurrirla, para que no se pegue. Cocer los huevos 10-11 min y enfriarlos en agua para pelarlos bien."
+    },
+    {
+     "titulo": "4. Plancha: pollo, lomo de cerdo y atun fresco",
+     "ingredientes": [
+      {
+       "nombre": "Pechuga de pollo",
+       "cantidad": 500,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos",
+       "derivado": true
+      },
+      {
+       "nombre": "Lomo de cerdo",
+       "cantidad": 300,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos",
+       "derivado": true
+      },
+      {
+       "nombre": "Atun fresco (lomo)",
+       "cantidad": 250,
+       "unidad": "g",
+       "categoria": "Pescaderia",
+       "derivado": true
+      }
+     ],
+     "instrucciones": "Pollo y lomo de cerdo en tacos o filetes, vuelta y vuelta con sal (cocinar por separado). El atun fresco tambien a la plancha, bien hecho por dentro, sin dejar el centro rosado."
+    },
+    {
+     "titulo": "5. Thermomix: hummus",
+     "ingredientes": [
+      {
+       "nombre": "Garbanzos cocidos (bote o secos)",
+       "cantidad": 250,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      },
+      {
+       "nombre": "Tahini",
+       "cantidad": 40,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      },
+      {
+       "nombre": "Limon",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Ajo",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 25,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "instrucciones": "Triturar todo junto hasta que quede cremoso. Añadir un poco de agua si queda demasiado espeso."
+    },
+    {
+     "titulo": "6. Thermomix: gazpacho / salmorejo (sin pepino, a Lydia no le gusta)",
+     "ingredientes": [
+      {
+       "nombre": "Tomate",
+       "cantidad": 700,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Pimiento rojo",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Ajo",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 40,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      },
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 40,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Vinagre de manzana",
+       "cantidad": 20,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "instrucciones": "Triturar todos los ingredientes juntos; el pan sin gluten es lo que le da cuerpo, como en un salmorejo. Colar si se quiere mas fino y meter en la nevera bien frio."
+    },
+    {
+     "titulo": "7. Lavar y cortar para las ensaladas de la semana",
+     "ingredientes": [
+      {
+       "nombre": "Zanahoria",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Apio",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Tomate cherry",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "instrucciones": "Lavar, pelar y cortar. Guardar ya listo en tarteras en la nevera para usar directamente en los tuppers de la semana."
+    }
+   ]
+  }
+ },
+ "B": {
+  "nombre": "Semana B",
+  "dias": {
+   "Lunes": {
+    "Desayuno": {
+     "Lydia": {
+      "titulo": "Tostada con queso fresco batido, miel y nueces",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Queso fresco batido pasteurizado 0%",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Miel",
+        "cantidad": 10,
+        "unidad": "g",
+        "categoria": "Aceites, salsas y condimentos"
+       },
+       {
+        "nombre": "Nueces naturales",
+        "cantidad": 10,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     },
+     "Ruben": {
+      "titulo": "Tostada con pavo y huevo (post-rodaje suave)",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Huevo campero (M)",
+        "cantidad": 2,
+        "unidad": "ud",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Pechuga de pavo (fresca, no fiambre)",
+        "cantidad": 40,
+        "unidad": "g",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 150,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Almuerzo": {
+     "Lydia": {
+      "titulo": "Batido de platano con canela",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 220,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 110,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Canela",
+        "cantidad": 1,
+        "unidad": "g",
+        "categoria": "Aceites, salsas y condimentos"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Batir todo junto."
+     },
+     "Ruben": {
+      "titulo": "Yogur griego, fruta y semillas de chia",
+      "base": [
+       {
+        "nombre": "Yogur griego natural",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Melocoton",
+        "cantidad": 250,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Semillas de chia",
+        "cantidad": 10,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Nueces naturales",
+        "cantidad": 15,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Creatina monohidrato",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Comida": {
+     "titulo": "Bowl tupper de patata, pavo y verduras asadas con salsa de yogur",
+     "base": [
+      {
+       "nombre": "Patata",
+       "cantidad": 220,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Pechuga de pavo (fresca, no fiambre)",
+       "cantidad": 250,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Yogur griego natural",
+       "cantidad": 40,
+       "unidad": "g",
+       "categoria": "Lacteos (pasteurizados)"
+      },
+      {
+       "nombre": "Limon",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Patata",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Pechuga de pavo (fresca, no fiambre)",
+       "cantidad": 50,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "nota": "Patata cocida y pavo en tacos (del domingo) + berenjena/pimiento asados (tambien del domingo) con una salsa rapida de yogur+limon+sal."
+    },
+    "Merienda": {
+     "titulo": "Tortita de arroz con aguacate y pavo",
+     "base": [
+      {
+       "nombre": "Tortitas de arroz",
+       "cantidad": 3,
+       "unidad": "ud",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Aguacate",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Pechuga de pavo (fresca, no fiambre)",
+       "cantidad": 40,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Tortitas de arroz",
+       "cantidad": 2,
+       "unidad": "ud",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "nota": ""
+    },
+    "Cena": {
+     "titulo": "Salmon marinado con ensalada verde",
+     "base": [
+      {
+       "nombre": "Salmon (lomo fresco)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Pescaderia"
+      },
+      {
+       "nombre": "Lechuga",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Apio",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Tomate cherry",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Patata",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "nota": "Salmon marinado del domingo, recalentar suave."
+    }
+   },
+   "Martes": {
+    "Desayuno": {
+     "Lydia": {
+      "titulo": "Tostada con atun y tomate",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Atun al natural (lata)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: legumbres y conservas"
+       },
+       {
+        "nombre": "Tomate",
+        "cantidad": 50,
+        "unidad": "g",
+        "categoria": "Frescos: verdura y hortaliza"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     },
+     "Ruben": {
+      "titulo": "Batido de avena y proteina",
+      "base": [
+       {
+        "nombre": "Copos de avena sin gluten",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 250,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Almuerzo": {
+     "Lydia": {
+      "titulo": "Batido de fresa con avena",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 220,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fresa",
+        "cantidad": 120,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Copos de avena sin gluten",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Batir todo junto."
+     },
+     "Ruben": {
+      "titulo": "Kefir, fruta y anacardos",
+      "base": [
+       {
+        "nombre": "Kefir natural",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Anacardos naturales",
+        "cantidad": 30,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Creatina monohidrato",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Comida": {
+     "titulo": "Ensalada de lentejas con verduras y huevo (tupper)",
+     "base": [
+      {
+       "nombre": "Lentejas cocidas (bote o secas)",
+       "cantidad": 250,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      },
+      {
+       "nombre": "Pimiento rojo",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 2,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Cebolla",
+       "cantidad": 40,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      },
+      {
+       "nombre": "Vinagre de manzana",
+       "cantidad": 5,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Lentejas cocidas (bote o secas)",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      }
+     ],
+     "nota": "En frio, aguanta perfecto de un dia para otro."
+    },
+    "Merienda": {
+     "titulo": "Yogur con nueces y miel",
+     "base": [
+      {
+       "nombre": "Yogur natural sin azucar",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Lacteos (pasteurizados)"
+      },
+      {
+       "nombre": "Nueces naturales",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      },
+      {
+       "nombre": "Miel",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Nueces naturales",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      }
+     ],
+     "nota": ""
+    },
+    "Cena": {
+     "titulo": "Revuelto de esparragos con pollo",
+     "base": [
+      {
+       "nombre": "Esparragos verdes",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 3,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Pechuga de pollo",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 8,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 50,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "nota": "Pollo comprado y cocinado fresco ese mismo dia (no es del cocinado del domingo): trocear pequeño y saltear antes de añadir el huevo."
+    }
+   },
+   "Miercoles": {
+    "Desayuno": {
+     "Lydia": {
+      "titulo": "Tostada con crema de cacahuete, albaricoque y canela",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Crema de cacahuete 100%",
+        "cantidad": 15,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Albaricoque",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Canela",
+        "cantidad": 1,
+        "unidad": "g",
+        "categoria": "Aceites, salsas y condimentos"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     },
+     "Ruben": {
+      "titulo": "Tostadas con huevo revuelto y pavo (post-series)",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Huevo campero (M)",
+        "cantidad": 3,
+        "unidad": "ud",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Pechuga de pavo (fresca, no fiambre)",
+        "cantidad": 40,
+        "unidad": "g",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 150,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Almuerzo": {
+     "Lydia": {
+      "titulo": "Batido de frutos rojos",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 220,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 130,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Batir todo junto."
+     },
+     "Ruben": {
+      "titulo": "Fruta y yogur",
+      "base": [
+       {
+        "nombre": "Yogur natural sin azucar",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Nectarina",
+        "cantidad": 250,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Almendras crudas",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Creatina monohidrato",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Comida": {
+     "titulo": "Bowl de arroz integral, lomo de cerdo y verduras asadas (tupper)",
+     "base": [
+      {
+       "nombre": "Arroz integral",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Lomo de cerdo",
+       "cantidad": 250,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Salsa de soja sin gluten (tamari)",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Arroz integral",
+       "cantidad": 25,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Lomo de cerdo",
+       "cantidad": 50,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "nota": "Arroz integral y lomo de cerdo (del domingo) + berenjena/pimiento asados (tambien del domingo), con un chorrito de tamari."
+    },
+    "Merienda": {
+     "titulo": "Tostada con queso fresco batido y miel",
+     "base": [
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Queso fresco batido pasteurizado 0%",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Lacteos (pasteurizados)"
+      },
+      {
+       "nombre": "Miel",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "nota": ""
+    },
+    "Cena": {
+     "titulo": "Gazpacho de sandia con huevo duro",
+     "base": [
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 2,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 50,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Pechuga de pavo (fresca, no fiambre)",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "nota": "400 ml del gazpacho de sandia del domingo, bien frio, con huevo duro picado. Muy refrescante para una noche calurosa."
+    }
+   },
+   "Jueves": {
+    "Desayuno": {
+     "Lydia": {
+      "titulo": "Tostada con mermelada casera de frutos rojos y queso fresco",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Queso fresco batido pasteurizado 0%",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Mermelada casera rapida: cocer fruta de temporada troceada con un poco de agua unos 10 min, sin azucar añadido."
+     },
+     "Ruben": {
+      "titulo": "Tostadas con atun (bici/gimnasio)",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Atun al natural (lata)",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Despensa: legumbres y conservas"
+       },
+       {
+        "nombre": "Tomate",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Frescos: verdura y hortaliza"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 150,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Almuerzo": {
+     "Lydia": {
+      "titulo": "Batido de platano con cacao y avena",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 220,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Cacao desgrasado en polvo sin azucar",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Copos de avena sin gluten",
+        "cantidad": 15,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Batir todo junto."
+     },
+     "Ruben": {
+      "titulo": "Kefir, fruta y nueces",
+      "base": [
+       {
+        "nombre": "Kefir natural",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Nueces naturales",
+        "cantidad": 30,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Creatina monohidrato",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Comida": {
+     "titulo": "Bowl de boniato, atun fresco, edamame y aguacate (tupper)",
+     "base": [
+      {
+       "nombre": "Boniato",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Atun fresco (lomo)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Pescaderia"
+      },
+      {
+       "nombre": "Aguacate",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Edamame (vaina o desgranado, congelado)",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Zanahoria",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Salsa de soja sin gluten (tamari)",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Boniato",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Atun fresco (lomo)",
+       "cantidad": 50,
+       "unidad": "g",
+       "categoria": "Pescaderia"
+      }
+     ],
+     "nota": "Boniato asado y atun fresco a la plancha (del domingo), en frio."
+    },
+    "Merienda": {
+     "titulo": "Yogur con fruta",
+     "base": [
+      {
+       "nombre": "Yogur natural sin azucar",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Lacteos (pasteurizados)"
+      },
+      {
+       "nombre": "Fruta de temporada (variada)",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Fruta fresca"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Almendras crudas",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      }
+     ],
+     "nota": ""
+    },
+    "Cena": {
+     "titulo": "Pavo al horno con patata y verduras",
+     "base": [
+      {
+       "nombre": "Pechuga de pavo (fresca, no fiambre)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Pimiento verde",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Cebolla",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Patata",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 8,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Patata",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "nota": "Pavo restante del domingo, recalentado al horno con verduras nuevas."
+    }
+   },
+   "Viernes": {
+    "Desayuno": {
+     "Lydia": {
+      "titulo": "Tostada con huevo revuelto y espinacas",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Huevo campero (M)",
+        "cantidad": 2,
+        "unidad": "ud",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Espinacas frescas",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Frescos: verdura y hortaliza"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     },
+     "Ruben": {
+      "titulo": "Tostadas con huevo, pavo y miel (post-tirada larga)",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Huevo campero (M)",
+        "cantidad": 2,
+        "unidad": "ud",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Pechuga de pavo (fresca, no fiambre)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Miel",
+        "cantidad": 10,
+        "unidad": "g",
+        "categoria": "Aceites, salsas y condimentos"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Almuerzo": {
+     "Lydia": {
+      "titulo": "Batido de melocoton con miel",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 220,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Melocoton",
+        "cantidad": 150,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Miel",
+        "cantidad": 10,
+        "unidad": "g",
+        "categoria": "Aceites, salsas y condimentos"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Batir todo junto."
+     },
+     "Ruben": {
+      "titulo": "Fruta y yogur",
+      "base": [
+       {
+        "nombre": "Yogur natural sin azucar",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Almendras crudas",
+        "cantidad": 15,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Creatina monohidrato",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Comida": {
+     "titulo": "Ensalada de lentejas con salmon desmenuzado (tupper, dia de compra)",
+     "base": [
+      {
+       "nombre": "Salmon (lomo fresco)",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Pescaderia"
+      },
+      {
+       "nombre": "Lentejas cocidas (bote o secas)",
+       "cantidad": 250,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      },
+      {
+       "nombre": "Pimiento rojo",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Cebolla",
+       "cantidad": 40,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Lentejas cocidas (bote o secas)",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      }
+     ],
+     "nota": "Con el salmon marinado que sobra del domingo, desmenuzado."
+    },
+    "Merienda": {
+     "titulo": "Tostada con platano y miel + frutos secos",
+     "base": [
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Platano",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Fruta fresca"
+      },
+      {
+       "nombre": "Miel",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      },
+      {
+       "nombre": "Almendras crudas",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "nota": ""
+    },
+    "Cena": {
+     "titulo": "Merluza en airfryer con pimientos",
+     "base": [
+      {
+       "nombre": "Merluza (lomo o rodaja)",
+       "cantidad": 350,
+       "unidad": "g",
+       "categoria": "Pescaderia"
+      },
+      {
+       "nombre": "Pimiento rojo",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 8,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Patata",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "nota": ""
+    }
+   },
+   "Sabado": {
+    "Desayuno": {
+     "Lydia": {
+      "titulo": "Tostada con queso fresco y fruta",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Queso fresco batido pasteurizado 0%",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 150,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     },
+     "Ruben": {
+      "titulo": "Avena con platano y miel (pre-ruta larga)",
+      "base": [
+       {
+        "nombre": "Copos de avena sin gluten",
+        "cantidad": 90,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Miel",
+        "cantidad": 15,
+        "unidad": "g",
+        "categoria": "Aceites, salsas y condimentos"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Durante la ruta: platano/dátiles cada 45-60 min, hidratacion con sales."
+     }
+    },
+    "Almuerzo": {
+     "Lydia": {
+      "titulo": "Batido de fresa y platano",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 220,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fresa",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Batir todo junto."
+     },
+     "Ruben": {
+      "titulo": "Fruta y frutos secos",
+      "base": [
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Anacardos naturales",
+        "cantidad": 15,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Si la ruta se alarga, tomar a media mañana en casa nada mas volver, con el batido de recuperacion de la merienda adelantado si hace falta."
+     }
+    },
+    "Comida": {
+     "titulo": "Comida libre de la semana",
+     "base": [],
+     "extra_ruben": [],
+     "nota": "Segunda comida libre opcional (recordar: maximo 1-2 por semana en total, ajustar con la del domingo si aplica)."
+    },
+    "Merienda": {
+     "Lydia": {
+      "titulo": "Batido de platano y fresa",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Fresa",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "A su hora habitual."
+     },
+     "Ruben": {
+      "titulo": "Batido de recuperacion",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 250,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 30,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Creatina monohidrato",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Nada mas terminar la ruta o al llegar a casa."
+     }
+    },
+    "Cena": {
+     "titulo": "Hamburguesa casera de ternera sin pan, con boniato frito",
+     "base": [
+      {
+       "nombre": "Ternera magra picada",
+       "cantidad": 350,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Boniato",
+       "cantidad": 300,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Lechuga",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Tomate",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Cebolla",
+       "cantidad": 40,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Ternera magra picada",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Boniato",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "nota": "Cena de fin de semana: formar las hamburguesas a mano con sal y especias, plancha o airfryer 180C 8-10 min; el boniato en bastones al airfryer 180C 15-18 min como si fueran patatas fritas. Se sirve sin pan, con la ensalada."
+    }
+   },
+   "Domingo": {
+    "Desayuno": {
+     "titulo": "Tortitas de avena y platano (pre-Hyrox)",
+     "base": [
+      {
+       "nombre": "Copos de avena sin gluten",
+       "cantidad": 70,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Platano",
+       "cantidad": 180,
+       "unidad": "g",
+       "categoria": "Fruta fresca"
+      },
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 3,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Canela",
+       "cantidad": 1,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      },
+      {
+       "nombre": "Miel",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Copos de avena sin gluten",
+       "cantidad": 20,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "nota": "Triturar la avena, el platano y los huevos hasta obtener una masa fina; añadir la canela. Tortitas pequeñas en sarten antiadherente, 2-3 min por lado."
+    },
+    "Almuerzo": {
+     "titulo": "Recuperacion post-Hyrox: huevos revueltos y tostada",
+     "base": [
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 4,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Fruta de temporada (variada)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Fruta fresca"
+      },
+      {
+       "nombre": "Kefir natural",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Lacteos (pasteurizados)"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 2,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 40,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "nota": ""
+    },
+    "Comida": {
+     "titulo": "Arroz integral con verduras y pavo",
+     "base": [
+      {
+       "nombre": "Arroz integral",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Pechuga de pavo (fresca, no fiambre)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Pimiento verde",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Cebolla",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Arroz integral",
+       "cantidad": 25,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "nota": "Arroz (45 g Lydia / 55 g Ruben aprox.). Rapido de montar mientras seguis con el cocinado grande de la semana que empieza."
+    },
+    "Merienda": {
+     "titulo": "Fruta y yogur",
+     "base": [
+      {
+       "nombre": "Yogur natural sin azucar",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Lacteos (pasteurizados)"
+      },
+      {
+       "nombre": "Fruta de temporada (variada)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Fruta fresca"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Anacardos naturales",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      }
+     ],
+     "nota": ""
+    },
+    "Cena": {
+     "titulo": "Langostinos a la plancha con ensalada",
+     "base": [
+      {
+       "nombre": "Langostinos (pelados, crudos)",
+       "cantidad": 300,
+       "unidad": "g",
+       "categoria": "Pescaderia"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      },
+      {
+       "nombre": "Lechuga",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Tomate cherry",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Limon",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Patata",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "nota": "300 g de langostinos pelados a la plancha con ajo y perejil (bien hechos). Cena ligera de domingo."
+    }
+   }
+  },
+  "prep_domingo": {
+   "titulo": "Cocinado grande del domingo (al volver del box)",
+   "pasos": [
+    {
+     "titulo": "1. Horno: patata, boniato y verduras asadas",
+     "ingredientes": [
+      {
+       "nombre": "Patata",
+       "cantidad": 1020,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza",
+       "derivado": true
+      },
+      {
+       "nombre": "Boniato",
+       "cantidad": 750,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza",
+       "derivado": true
+      },
+      {
+       "nombre": "Berenjena",
+       "cantidad": 300,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Pimiento verde",
+       "cantidad": 300,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Cebolla",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "instrucciones": "Cortar la patata y el boniato en dados (bandeja aparte) y la berenjena/pimiento verde/cebolla en trozos (otra bandeja). Aliñar con el aceite y sal. Horno 200C, 30-35 min."
+    },
+    {
+     "titulo": "2. Airfryer: salmon marinado",
+     "ingredientes": [
+      {
+       "nombre": "Salmon (lomo fresco)",
+       "cantidad": 300,
+       "unidad": "g",
+       "categoria": "Pescaderia",
+       "derivado": true
+      },
+      {
+       "nombre": "Salsa de soja sin gluten (tamari)",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      },
+      {
+       "nombre": "Limon",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Ajo",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "instrucciones": "Marinar el salmon 15 min con la soja, el zumo de limon y el ajo picado. Airfryer 180C, 10-12 min."
+    },
+    {
+     "titulo": "3. Vitro: arroz integral y huevos",
+     "ingredientes": [
+      {
+       "nombre": "Arroz integral",
+       "cantidad": 250,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta",
+       "derivado": true
+      },
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 6,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "instrucciones": "Cocer el arroz integral segun el tiempo del paquete. Cocer los huevos 10-11 min y enfriarlos en agua para pelarlos bien."
+    },
+    {
+     "titulo": "4. Plancha: pavo, lomo de cerdo y atun fresco",
+     "ingredientes": [
+      {
+       "nombre": "Pechuga de pavo (fresca, no fiambre)",
+       "cantidad": 940,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos",
+       "derivado": true
+      },
+      {
+       "nombre": "Lomo de cerdo",
+       "cantidad": 300,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos",
+       "derivado": true
+      },
+      {
+       "nombre": "Atun fresco (lomo)",
+       "cantidad": 250,
+       "unidad": "g",
+       "categoria": "Pescaderia",
+       "derivado": true
+      }
+     ],
+     "instrucciones": "Pavo y lomo de cerdo en tacos o filetes con las especias que mas os gusten (comino, pimenton, oregano), cocinar por separado. Atun fresco a la plancha vuelta y vuelta, bien hecho por dentro, sin dejar el centro rosado."
+    },
+    {
+     "titulo": "5. Thermomix: gazpacho de sandia (sin pepino, a Lydia no le gusta)",
+     "ingredientes": [
+      {
+       "nombre": "Sandia",
+       "cantidad": 500,
+       "unidad": "g",
+       "categoria": "Fruta fresca"
+      },
+      {
+       "nombre": "Tomate",
+       "cantidad": 300,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Ajo",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "instrucciones": "Triturar todo junto con una pizca de sal. Colar si se quiere mas fino y dejar bien frio en la nevera; es una bebida refrescante para las noches de mas calor."
+    },
+    {
+     "titulo": "6. Thermomix: ajoblanco ligero (opcional, para variar)",
+     "ingredientes": [
+      {
+       "nombre": "Almendras crudas",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      },
+      {
+       "nombre": "Ajo",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 20,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      },
+      {
+       "nombre": "Vinagre de manzana",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "instrucciones": "Triturar las almendras con el ajo, el aceite, el vinagre y agua hasta que quede cremoso. Se puede usar en vez del gazpacho de sandia si apetece variar."
+    },
+    {
+     "titulo": "7. Lavar y cortar para las ensaladas de la semana",
+     "ingredientes": [
+      {
+       "nombre": "Apio",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Zanahoria",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Tomate cherry",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "instrucciones": "Lavar, pelar y cortar. Guardar ya listo en tarteras en la nevera para usar directamente en los tuppers de la semana."
+    }
+   ]
+  }
+ },
+ "C": {
+  "nombre": "Semana C",
+  "dias": {
+   "Lunes": {
+    "Desayuno": {
+     "Lydia": {
+      "titulo": "Tostada con crema de cacahuete, albaricoque y canela",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Crema de cacahuete 100%",
+        "cantidad": 15,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Albaricoque",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Canela",
+        "cantidad": 1,
+        "unidad": "g",
+        "categoria": "Aceites, salsas y condimentos"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     },
+     "Ruben": {
+      "titulo": "Tostada doble con huevo y platano (post-rodaje suave)",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Huevo campero (M)",
+        "cantidad": 2,
+        "unidad": "ud",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Nueces naturales",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Almuerzo": {
+     "Lydia": {
+      "titulo": "Batido de platano con avena y miel",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 220,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Copos de avena sin gluten",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Miel",
+        "cantidad": 10,
+        "unidad": "g",
+        "categoria": "Aceites, salsas y condimentos"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Batir todo junto."
+     },
+     "Ruben": {
+      "titulo": "Yogur, fruta y semillas de chia",
+      "base": [
+       {
+        "nombre": "Yogur natural sin azucar",
+        "cantidad": 250,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 250,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Semillas de chia",
+        "cantidad": 10,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Nueces naturales",
+        "cantidad": 15,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Creatina monohidrato",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Comida": {
+     "titulo": "Bowl tupper de patata, pollo especiado, brocoli y coliflor",
+     "base": [
+      {
+       "nombre": "Patata",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Pechuga de pollo",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Yogur natural sin azucar",
+       "cantidad": 40,
+       "unidad": "g",
+       "categoria": "Lacteos (pasteurizados)"
+      },
+      {
+       "nombre": "Limon",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Patata",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Pechuga de pollo",
+       "cantidad": 50,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "nota": "Patata cocida y pollo especiado (del domingo) + brocoli/coliflor asados (tambien del domingo), con una salsa rapida de yogur+limon."
+    },
+    "Merienda": {
+     "titulo": "Tostada con hummus de remolacha",
+     "base": [
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "nota": "60 g de hummus de remolacha del domingo por encima."
+    },
+    "Cena": {
+     "titulo": "Salmon a la plancha con ensalada",
+     "base": [
+      {
+       "nombre": "Salmon (lomo fresco)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Pescaderia"
+      },
+      {
+       "nombre": "Lechuga",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Tomate",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Boniato",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "nota": "Salmon del domingo, recalentado suave."
+    }
+   },
+   "Martes": {
+    "Desayuno": {
+     "Lydia": {
+      "titulo": "Tostada con queso fresco y tomate",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Queso fresco batido pasteurizado 0%",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Tomate cherry",
+        "cantidad": 50,
+        "unidad": "g",
+        "categoria": "Frescos: verdura y hortaliza"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     },
+     "Ruben": {
+      "titulo": "Porridge de avena con melocoton",
+      "base": [
+       {
+        "nombre": "Copos de avena sin gluten",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 250,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Melocoton",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Canela",
+        "cantidad": 1,
+        "unidad": "g",
+        "categoria": "Aceites, salsas y condimentos"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Almuerzo": {
+     "Lydia": {
+      "titulo": "Batido de fresa con avena",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 220,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fresa",
+        "cantidad": 120,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Copos de avena sin gluten",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Batir todo junto."
+     },
+     "Ruben": {
+      "titulo": "Kefir, fruta y anacardos",
+      "base": [
+       {
+        "nombre": "Kefir natural",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Anacardos naturales",
+        "cantidad": 30,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Creatina monohidrato",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Comida": {
+     "titulo": "Ensalada fria de pasta sin gluten con atun (tupper)",
+     "base": [
+      {
+       "nombre": "Pasta sin gluten (fusilli maiz-arroz)",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Atun al natural (lata)",
+       "cantidad": 120,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      },
+      {
+       "nombre": "Tomate cherry",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceitunas negras sin hueso",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Pasta sin gluten (fusilli maiz-arroz)",
+       "cantidad": 25,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Atun al natural (lata)",
+       "cantidad": 40,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      }
+     ],
+     "nota": "Pasta (45 g Lydia / 55 g Ruben aprox.), cocida el domingo (se enfrio en agua fria para que no se pegue) + atun + tomate cherry + aceitunas, en frio con AOVE. Ideal para el calor."
+    },
+    "Merienda": {
+     "titulo": "Yogur con nueces y miel",
+     "base": [
+      {
+       "nombre": "Yogur natural sin azucar",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Lacteos (pasteurizados)"
+      },
+      {
+       "nombre": "Nueces naturales",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      },
+      {
+       "nombre": "Miel",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Nueces naturales",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      }
+     ],
+     "nota": ""
+    },
+    "Cena": {
+     "titulo": "Revuelto de esparragos con lomo de cerdo",
+     "base": [
+      {
+       "nombre": "Lomo de cerdo",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Esparragos verdes",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 3,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 8,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Lomo de cerdo",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 50,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "nota": "Lomo de cerdo comprado y cocinado fresco ese mismo dia (no es del cocinado del domingo): trocear pequeño y saltear antes de añadir el huevo."
+    }
+   },
+   "Miercoles": {
+    "Desayuno": {
+     "Lydia": {
+      "titulo": "Tostada con aguacate y tomate",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Aguacate",
+        "cantidad": 50,
+        "unidad": "g",
+        "categoria": "Frescos: verdura y hortaliza"
+       },
+       {
+        "nombre": "Tomate cherry",
+        "cantidad": 40,
+        "unidad": "g",
+        "categoria": "Frescos: verdura y hortaliza"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     },
+     "Ruben": {
+      "titulo": "Tostadas con huevo revuelto y pollo (post-series)",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Huevo campero (M)",
+        "cantidad": 3,
+        "unidad": "ud",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Pechuga de pollo",
+        "cantidad": 40,
+        "unidad": "g",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 150,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Almuerzo": {
+     "Lydia": {
+      "titulo": "Batido de fresa con canela",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 220,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fresa",
+        "cantidad": 130,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Canela",
+        "cantidad": 1,
+        "unidad": "g",
+        "categoria": "Aceites, salsas y condimentos"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Batir todo junto."
+     },
+     "Ruben": {
+      "titulo": "Fruta y yogur",
+      "base": [
+       {
+        "nombre": "Yogur natural sin azucar",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Ciruela",
+        "cantidad": 250,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Almendras crudas",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Creatina monohidrato",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Comida": {
+     "titulo": "Bowl de boniato, pavo y brocoli con salsa de tahini (tupper)",
+     "base": [
+      {
+       "nombre": "Boniato",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Pechuga de pavo (fresca, no fiambre)",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Tahini",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      },
+      {
+       "nombre": "Limon",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Boniato",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Pechuga de pavo (fresca, no fiambre)",
+       "cantidad": 50,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "nota": "Boniato, pavo y brocoli (del domingo), con salsa de tahini+limon+agua."
+    },
+    "Merienda": {
+     "titulo": "Tostada con crema de cacahuete",
+     "base": [
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Crema de cacahuete 100%",
+       "cantidad": 20,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "nota": ""
+    },
+    "Cena": {
+     "titulo": "Gazpacho de sandia con atun",
+     "base": [
+      {
+       "nombre": "Atun al natural (lata)",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 50,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "nota": "400 ml de gazpacho de sandia del domingo, bien frio, con atun escurrido por encima."
+    }
+   },
+   "Jueves": {
+    "Desayuno": {
+     "Lydia": {
+      "titulo": "Tostada con mermelada casera y queso fresco",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Queso fresco batido pasteurizado 0%",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     },
+     "Ruben": {
+      "titulo": "Tostadas con atun (bici/gimnasio)",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Atun al natural (lata)",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Despensa: legumbres y conservas"
+       },
+       {
+        "nombre": "Tomate",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Frescos: verdura y hortaliza"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 150,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Almuerzo": {
+     "Lydia": {
+      "titulo": "Batido de frutos rojos con avena",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 220,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 120,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Copos de avena sin gluten",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Batir todo junto."
+     },
+     "Ruben": {
+      "titulo": "Kefir, fruta y nueces",
+      "base": [
+       {
+        "nombre": "Kefir natural",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Nueces naturales",
+        "cantidad": 30,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Creatina monohidrato",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Comida": {
+     "titulo": "Ensalada de arroz con atun fresco, brocoli y huevo (tupper)",
+     "base": [
+      {
+       "nombre": "Arroz basmati",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Atun fresco (lomo)",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Pescaderia"
+      },
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 2,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Arroz basmati",
+       "cantidad": 25,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Atun fresco (lomo)",
+       "cantidad": 50,
+       "unidad": "g",
+       "categoria": "Pescaderia"
+      }
+     ],
+     "nota": "Arroz (45 g Lydia / 55 g Ruben aprox.) y atun fresco a la plancha (del domingo) + brocoli (tambien del domingo) + huevo cocido, en frio."
+    },
+    "Merienda": {
+     "titulo": "Yogur con fruta",
+     "base": [
+      {
+       "nombre": "Yogur natural sin azucar",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Lacteos (pasteurizados)"
+      },
+      {
+       "nombre": "Fruta de temporada (variada)",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Fruta fresca"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Almendras crudas",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      }
+     ],
+     "nota": ""
+    },
+    "Cena": {
+     "titulo": "Pollo al horno con especias, patata y verduras",
+     "base": [
+      {
+       "nombre": "Pechuga de pollo",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Patata",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Pimiento rojo",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Especias variadas (oregano, comino, pimenton, etc.)",
+       "cantidad": 3,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 8,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Patata",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "nota": "Cena cocinada fresca, horno 200C 25-30 min."
+    }
+   },
+   "Viernes": {
+    "Desayuno": {
+     "Lydia": {
+      "titulo": "Tostada con huevo revuelto y espinacas",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Huevo campero (M)",
+        "cantidad": 2,
+        "unidad": "ud",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Espinacas frescas",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Frescos: verdura y hortaliza"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     },
+     "Ruben": {
+      "titulo": "Tostadas con huevo, pollo y miel (post-tirada larga)",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Huevo campero (M)",
+        "cantidad": 2,
+        "unidad": "ud",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Pechuga de pollo",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Carne, aves y huevos"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Miel",
+        "cantidad": 10,
+        "unidad": "g",
+        "categoria": "Aceites, salsas y condimentos"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Almuerzo": {
+     "Lydia": {
+      "titulo": "Batido de melocoton con miel",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 220,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Melocoton",
+        "cantidad": 150,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Miel",
+        "cantidad": 10,
+        "unidad": "g",
+        "categoria": "Aceites, salsas y condimentos"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Batir todo junto."
+     },
+     "Ruben": {
+      "titulo": "Fruta y yogur",
+      "base": [
+       {
+        "nombre": "Yogur natural sin azucar",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Almendras crudas",
+        "cantidad": 15,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 20,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Creatina monohidrato",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     }
+    },
+    "Comida": {
+     "titulo": "Ensalada de garbanzos con salmon desmenuzado (tupper, dia de compra)",
+     "base": [
+      {
+       "nombre": "Salmon (lomo fresco)",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Pescaderia"
+      },
+      {
+       "nombre": "Garbanzos cocidos (bote o secos)",
+       "cantidad": 250,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      },
+      {
+       "nombre": "Apio",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Tomate",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Garbanzos cocidos (bote o secos)",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      }
+     ],
+     "nota": "Con el salmon que sobra del domingo, desmenuzado."
+    },
+    "Merienda": {
+     "titulo": "Tostada con platano y miel + frutos secos",
+     "base": [
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Platano",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Fruta fresca"
+      },
+      {
+       "nombre": "Miel",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      },
+      {
+       "nombre": "Almendras crudas",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "nota": ""
+    },
+    "Cena": {
+     "titulo": "Merluza al papillote con verduras",
+     "base": [
+      {
+       "nombre": "Merluza (lomo o rodaja)",
+       "cantidad": 350,
+       "unidad": "g",
+       "categoria": "Pescaderia"
+      },
+      {
+       "nombre": "Calabacin",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Tomate cherry",
+       "cantidad": 80,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Limon",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 8,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Patata",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "nota": "Papillote en horno o vitro con tapa, 180C 15-18 min."
+    }
+   },
+   "Sabado": {
+    "Desayuno": {
+     "Lydia": {
+      "titulo": "Tostada con queso fresco batido y fruta",
+      "base": [
+       {
+        "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Queso fresco batido pasteurizado 0%",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 150,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": ""
+     },
+     "Ruben": {
+      "titulo": "Avena con platano y miel (pre-ruta larga)",
+      "base": [
+       {
+        "nombre": "Copos de avena sin gluten",
+        "cantidad": 90,
+        "unidad": "g",
+        "categoria": "Despensa: cereales, pan y pasta"
+       },
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Miel",
+        "cantidad": 15,
+        "unidad": "g",
+        "categoria": "Aceites, salsas y condimentos"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Durante la ruta: fruta desecada/platano cada 45-60 min, hidratacion con sales."
+     }
+    },
+    "Almuerzo": {
+     "Lydia": {
+      "titulo": "Batido de fresa con platano y yogur",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 180,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Yogur natural sin azucar",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Fresa",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 60,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Batir todo junto."
+     },
+     "Ruben": {
+      "titulo": "Fruta y frutos secos",
+      "base": [
+       {
+        "nombre": "Fruta de temporada (variada)",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Almendras crudas",
+        "cantidad": 15,
+        "unidad": "g",
+        "categoria": "Frutos secos y semillas"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Si la ruta se alarga, tomar a media mañana en casa nada mas volver, con el batido de recuperacion de la merienda adelantado si hace falta."
+     }
+    },
+    "Comida": {
+     "titulo": "Comida libre de la semana",
+     "base": [],
+     "extra_ruben": [],
+     "nota": "Aprovechar el sabado para la comida libre (recordar: maximo 1-2 comidas libres por semana en total)."
+    },
+    "Merienda": {
+     "Lydia": {
+      "titulo": "Batido de platano y fresa",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 200,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Fresa",
+        "cantidad": 80,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "A su hora habitual."
+     },
+     "Ruben": {
+      "titulo": "Batido de recuperacion",
+      "base": [
+       {
+        "nombre": "Leche desnatada",
+        "cantidad": 250,
+        "unidad": "g",
+        "categoria": "Lacteos (pasteurizados)"
+       },
+       {
+        "nombre": "Platano",
+        "cantidad": 100,
+        "unidad": "g",
+        "categoria": "Fruta fresca"
+       },
+       {
+        "nombre": "Proteina en polvo (whey o vegetal, sin gluten)",
+        "cantidad": 30,
+        "unidad": "g",
+        "categoria": "Otros"
+       },
+       {
+        "nombre": "Creatina monohidrato",
+        "cantidad": 5,
+        "unidad": "g",
+        "categoria": "Otros"
+       }
+      ],
+      "extra_ruben": [],
+      "nota": "Nada mas terminar la ruta o al llegar a casa."
+     }
+    },
+    "Cena": {
+     "titulo": "Albondigas de ternera con tomate y arroz",
+     "base": [
+      {
+       "nombre": "Ternera magra picada",
+       "cantidad": 350,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Tomate triturado (bote)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      },
+      {
+       "nombre": "Arroz basmati",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Ajo",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Ternera magra picada",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Arroz basmati",
+       "cantidad": 40,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "nota": "Formar albondigas con la ternera+ajo+sal, dorar y terminar de cocinar en la salsa de tomate 15 min. Cena de fin de semana."
+    }
+   },
+   "Domingo": {
+    "Desayuno": {
+     "titulo": "Tortitas de avena y platano (pre-Hyrox)",
+     "base": [
+      {
+       "nombre": "Copos de avena sin gluten",
+       "cantidad": 70,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Platano",
+       "cantidad": 180,
+       "unidad": "g",
+       "categoria": "Fruta fresca"
+      },
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 3,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Canela",
+       "cantidad": 1,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      },
+      {
+       "nombre": "Miel",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Copos de avena sin gluten",
+       "cantidad": 20,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "nota": "Triturar la avena, el platano y los huevos hasta obtener una masa fina; añadir la canela. Tortitas pequeñas en sarten antiadherente, 2-3 min por lado."
+    },
+    "Almuerzo": {
+     "titulo": "Recuperacion post-Hyrox: huevos revueltos y tostada",
+     "base": [
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 4,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 60,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Fruta de temporada (variada)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Fruta fresca"
+      },
+      {
+       "nombre": "Kefir natural",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Lacteos (pasteurizados)"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 2,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 40,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "nota": ""
+    },
+    "Comida": {
+     "titulo": "Pasta sin gluten con tomate, garbanzos y verduras",
+     "base": [
+      {
+       "nombre": "Pasta sin gluten (fusilli maiz-arroz)",
+       "cantidad": 90,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      },
+      {
+       "nombre": "Tomate triturado (bote)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      },
+      {
+       "nombre": "Garbanzos cocidos (bote o secos)",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      },
+      {
+       "nombre": "Calabacin",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Pasta sin gluten (fusilli maiz-arroz)",
+       "cantidad": 25,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "nota": "Pasta (40 g Lydia / 50 g Ruben aprox., ya lleva garbanzos de mas hidrato). Rapido de montar mientras seguis con el cocinado grande de la semana que empieza."
+    },
+    "Merienda": {
+     "titulo": "Fruta y yogur",
+     "base": [
+      {
+       "nombre": "Yogur natural sin azucar",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Lacteos (pasteurizados)"
+      },
+      {
+       "nombre": "Fruta de temporada (variada)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Fruta fresca"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Almendras crudas",
+       "cantidad": 15,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      }
+     ],
+     "nota": ""
+    },
+    "Cena": {
+     "titulo": "Revuelto de gambas con verduras",
+     "base": [
+      {
+       "nombre": "Langostinos (pelados, crudos)",
+       "cantidad": 250,
+       "unidad": "g",
+       "categoria": "Pescaderia"
+      },
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 3,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Espinacas frescas",
+       "cantidad": 100,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Ajo",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 8,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "extra_ruben": [
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      },
+      {
+       "nombre": "Pan de trigo sarraceno sin gluten (o multicereales sin gluten)",
+       "cantidad": 50,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta"
+      }
+     ],
+     "nota": "Gambas bien hechas (nunca poco hechas). Cena tranquila de domingo."
+    }
+   }
+  },
+  "prep_domingo": {
+   "titulo": "Cocinado grande del domingo (al volver del box)",
+   "pasos": [
+    {
+     "titulo": "1. Horno: patata, boniato, brocoli y coliflor asados",
+     "ingredientes": [
+      {
+       "nombre": "Patata",
+       "cantidad": 800,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza",
+       "derivado": true
+      },
+      {
+       "nombre": "Boniato",
+       "cantidad": 400,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza",
+       "derivado": true
+      },
+      {
+       "nombre": "Brocoli",
+       "cantidad": 300,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Coliflor",
+       "cantidad": 300,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Especias variadas (oregano, comino, pimenton, etc.)",
+       "cantidad": 5,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 10,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "instrucciones": "Cortar la patata y el boniato en dados (bandeja aparte) y el brocoli/coliflor en arbolitos (otra bandeja). Aliñar con el aceite, sal y las especias. Horno 200C, 25-30 min."
+    },
+    {
+     "titulo": "2. Airfryer: salmon",
+     "ingredientes": [
+      {
+       "nombre": "Salmon (lomo fresco)",
+       "cantidad": 300,
+       "unidad": "g",
+       "categoria": "Pescaderia",
+       "derivado": true
+      }
+     ],
+     "instrucciones": "Salpimentar el salmon. Airfryer 180C, 10-12 min."
+    },
+    {
+     "titulo": "3. Vitro: arroz basmati, pasta sin gluten y huevos",
+     "ingredientes": [
+      {
+       "nombre": "Arroz basmati",
+       "cantidad": 265,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta",
+       "derivado": true
+      },
+      {
+       "nombre": "Pasta sin gluten (fusilli maiz-arroz)",
+       "cantidad": 240,
+       "unidad": "g",
+       "categoria": "Despensa: cereales, pan y pasta",
+       "derivado": true
+      },
+      {
+       "nombre": "Huevo campero (M)",
+       "cantidad": 6,
+       "unidad": "ud",
+       "categoria": "Carne, aves y huevos"
+      }
+     ],
+     "instrucciones": "Cocer el arroz y la pasta en ollas separadas segun el tiempo del paquete (la pasta se pasa por agua fria nada mas escurrirla, para que no se pegue). Cocer los huevos 10-11 min y enfriarlos en agua para pelarlos bien."
+    },
+    {
+     "titulo": "4. Plancha: pollo especiado, pavo y atun fresco",
+     "ingredientes": [
+      {
+       "nombre": "Pechuga de pollo",
+       "cantidad": 550,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos",
+       "derivado": true
+      },
+      {
+       "nombre": "Pechuga de pavo (fresca, no fiambre)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Carne, aves y huevos",
+       "derivado": true
+      },
+      {
+       "nombre": "Atun fresco (lomo)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Pescaderia",
+       "derivado": true
+      },
+      {
+       "nombre": "Especias variadas (oregano, comino, pimenton, etc.)",
+       "cantidad": 5,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "instrucciones": "Pollo en tacos con las especias y pavo en filetes, vuelta y vuelta (cocinar por separado). Atun fresco tambien a la plancha vuelta y vuelta, bien hecho por dentro, sin dejar el centro rosado."
+    },
+    {
+     "titulo": "5. Thermomix: hummus de remolacha",
+     "ingredientes": [
+      {
+       "nombre": "Garbanzos cocidos (bote o secos)",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Despensa: legumbres y conservas"
+      },
+      {
+       "nombre": "Remolacha cocida al natural",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Tahini",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Frutos secos y semillas"
+      },
+      {
+       "nombre": "Limon",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Ajo",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 25,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "instrucciones": "Triturar todo junto hasta que quede cremoso. Queda de un color rosa muy vistoso, perfecto para untar en tostadas."
+    },
+    {
+     "titulo": "6. Thermomix: gazpacho de sandia (sin pepino, a Lydia no le gusta)",
+     "ingredientes": [
+      {
+       "nombre": "Sandia",
+       "cantidad": 500,
+       "unidad": "g",
+       "categoria": "Fruta fresca"
+      },
+      {
+       "nombre": "Tomate",
+       "cantidad": 400,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Ajo",
+       "cantidad": 1,
+       "unidad": "ud",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Aceite de oliva virgen extra",
+       "cantidad": 30,
+       "unidad": "g",
+       "categoria": "Aceites, salsas y condimentos"
+      }
+     ],
+     "instrucciones": "Triturar todo junto con una pizca de sal. Colar si se quiere mas fino y dejar bien frio en la nevera."
+    },
+    {
+     "titulo": "7. Lavar y cortar para las ensaladas de la semana",
+     "ingredientes": [
+      {
+       "nombre": "Apio",
+       "cantidad": 200,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      },
+      {
+       "nombre": "Tomate cherry",
+       "cantidad": 150,
+       "unidad": "g",
+       "categoria": "Frescos: verdura y hortaliza"
+      }
+     ],
+     "instrucciones": "Lavar, pelar y cortar. Guardar ya listo en tarteras en la nevera para usar directamente en los tuppers de la semana. Nota: la ternera de las albondigas del sabado se compra y se cocina fresca ese mismo dia, no hace falta prepararla hoy."
+    }
+   ]
+  }
+ }
+}

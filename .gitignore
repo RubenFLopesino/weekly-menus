@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+dump_*.js
+jsdom_test.js
+manual_stub_test.js
+manual_stub_test2.js
+script_test.js
+js_aggregation.json
+page2.png
+page3.png
+pageA2.png
+pageA3.png
