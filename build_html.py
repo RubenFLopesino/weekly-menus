@@ -72,6 +72,8 @@ header p{margin:0;font-size:.82rem;opacity:.9;}
 .paso-titulo{font-weight:700;font-size:.9rem;color:#8a4d1f;margin-bottom:4px;}
 .prep-domingo ul{margin:0 0 6px;padding-left:20px;font-size:.86rem;}
 .prep-domingo .como{font-size:.82rem;color:#5b4632;background:#fff8f0;border-radius:8px;padding:8px 10px;}
+.nota-seguridad{font-size:.82rem;color:#7a3b12;background:#fff1de;border:1px solid #f0d3b8;border-radius:8px;padding:8px 10px;margin-bottom:10px;}
+.separador-tanda{border:none;border-top:2px dashed #f0d3b8;margin:18px 0;}
 
 .dia-panel{display:none;}
 .dia-panel.activa{display:block;}
@@ -118,8 +120,9 @@ details.notas-generales li{margin-bottom:5px;}
   <details class="notas-generales" open>
     <summary>Como funciona esto (leer primero)</summary>
     <ul>
-      <li><b>No cambia cada semana:</b> hay 3 menus distintos, <b>Menu A</b>, <b>Menu B</b> y <b>Menu C</b>. Cada uno se cocina y se compra igual durante <b>3 semanas seguidas</b> (mismo menu, misma compra, mismo cocinado de domingo). Al terminar esas 3 semanas se cambia al siguiente menu.</li>
+      <li><b>No cambia cada semana:</b> hay 3 menus distintos, <b>Menu A</b>, <b>Menu B</b> y <b>Menu C</b>. Cada uno se cocina y se compra igual durante <b>3 semanas seguidas</b> (mismo menu, misma compra, mismo cocinado). Al terminar esas 3 semanas se cambia al siguiente menu.</li>
       <li><b>Calendario de abajo:</b> cada tarjeta es un bloque de 3 semanas con sus fechas reales. Se empieza el lunes 27 de julio de 2026 con el Menu A hasta el 16 de agosto; el 17 de agosto se pasa al Menu B; y asi. Pulsando una tarjeta se abre ese menu.</li>
+      <li><b>Cocinado en dos tandas (seguridad alimentaria):</b> nada se cocina para toda la semana de golpe. El domingo se cocina solo lo que se va a comer hasta el miercoles (tanda 1), y el miercoles por la tarde se hace una segunda tanda mas pequeña para jueves-sabado (tanda 2). Asi ningun arroz, pasta, carne o pescado pasa mas de 3 dias en la nevera. Ademas, las <b>cenas se cocinan siempre al momento</b> (la proteina y las guarniciones tipo patata/boniato), no se guardan de un dia para otro: solo se preparan con antelacion los tuppers de la comida (y algun snack), que son los que se llevan fuera y hay menos tiempo de hacer por la mañana.</li>
       <li><b>Sin gluten estricto:</b> comprar siempre avena, tortitas de arroz, salsa de soja y similares con sello "sin gluten" certificado (no basta con que el ingrediente sea naturalmente libre de gluten, por el riesgo de contaminacion cruzada en fabrica).</li>
       <li><b>Embarazo:</b> todos los lacteos son pasteurizados; nada de embutido curado crudo (jamon serrano, lomo, chorizo); pescados siempre bien cocinados (nunca crudos ni poco hechos) y limitados a atun/salmon/pescado blanco (se evitan especies con mercurio alto); marisco siempre muy hecho; sin alcohol en ninguna receta.</li>
       <li><b>Comidas libres:</b> maximo 1-2 por semana (marcadas en el menu, normalmente el sabado y/o coincidiendo con algun plan social).</li>
@@ -157,7 +160,7 @@ details.notas-generales li{margin-bottom:5px;}
     <div id="compraContainer"></div>
   </div>
 
-  <footer>Preparado para Ruben y Lydia &middot; compra los viernes &middot; cocinado grande los domingos</footer>
+  <footer>Preparado para Ruben y Lydia &middot; compra los viernes &middot; cocinado en dos tandas: domingo y miercoles</footer>
 </div>
 
 <script>
@@ -208,10 +211,9 @@ function mostrarVista(v){
   document.getElementById("vistaCompra").style.display = v === "compra" ? "block" : "none";
 }
 
-function pintarPrepDomingo(){
-  const p = DATA[semanaActual].prep_domingo;
-  const el = document.getElementById("prepDomingo");
+function pintarTanda(p){
   let html = "<h3>" + p.titulo + "</h3>";
+  if(p.nota_seguridad) html += "<div class='nota-seguridad'>" + p.nota_seguridad + "</div>";
   p.pasos.forEach(paso => {
     html += "<div class='paso-domingo'>";
     html += "<div class='paso-titulo'>" + paso.titulo + "</div>";
@@ -219,6 +221,17 @@ function pintarPrepDomingo(){
     html += "<div class='como'>" + paso.instrucciones + "</div>";
     html += "</div>";
   });
+  return html;
+}
+
+function pintarPrepDomingo(){
+  const el = document.getElementById("prepDomingo");
+  const semana = DATA[semanaActual];
+  let html = pintarTanda(semana.prep_domingo);
+  if(semana.prep_miercoles){
+    html += "<hr class='separador-tanda'>";
+    html += pintarTanda(semana.prep_miercoles);
+  }
   el.innerHTML = html;
 }
 
@@ -310,10 +323,13 @@ function pintarDia(){
 function recolectarIngredientes(semana){
   let items = [];
   // Los ingredientes "derivados" (pollo, salmon, atun, arroz, pasta, patata, boniato...) ya se
-  // cuentan a partir de las comidas del dia a dia; en el paso del domingo son solo informativos,
-  // para no sumarlos dos veces en la lista de la compra.
-  semana.prep_domingo.pasos.forEach(paso => {
-    items = items.concat(paso.ingredientes.filter(i => !i.derivado));
+  // cuentan a partir de las comidas del dia a dia; en los pasos de las tandas de cocinado son
+  // solo informativos, para no sumarlos dos veces en la lista de la compra.
+  const tandas = [semana.prep_domingo, semana.prep_miercoles].filter(Boolean);
+  tandas.forEach(tanda => {
+    tanda.pasos.forEach(paso => {
+      items = items.concat(paso.ingredientes.filter(i => !i.derivado));
+    });
   });
   Object.values(semana.dias).forEach(comidas => {
     Object.values(comidas).forEach(comida => {
